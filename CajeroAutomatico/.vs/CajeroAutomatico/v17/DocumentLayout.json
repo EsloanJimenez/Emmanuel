@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|d:\\cursos\\emmanuel\\programas\\cajeroautomatico\\cajeroautomatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|solutionrelative:cajeroautomatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|d:\\cursos\\emmanuel\\programas\\cajeroautomatico\\cajeroautomatico\\class\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|solutionrelative:cajeroautomatico\\class\\opciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|d:\\cursos\\emmanuel\\programas\\cajeroautomatico\\cajeroautomatico\\class\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|solutionrelative:cajeroautomatico\\class\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|d:\\cursos\\emmanuel\\programas\\cajeroautomatico\\cajeroautomatico\\class\\iniciarseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|solutionrelative:cajeroautomatico\\class\\iniciarseccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|d:\\cursos\\emmanuel\\programas\\cajeroautomatico\\cajeroautomatico\\class\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8AF10A8-DCF1-4693-B1AC-2733A6ED913C}|CajeroAutomatico\\CajeroAutomatico.csproj|solutionrelative:cajeroautomatico\\class\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 946,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\Datos.cs",
+              "RelativeDocumentMoniker": "CajeroAutomatico\\Class\\Datos.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\Datos.cs",
+              "RelativeToolTip": "CajeroAutomatico\\Class\\Datos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:08:32.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Program.cs",
+              "RelativeDocumentMoniker": "CajeroAutomatico\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Program.cs",
+              "RelativeToolTip": "CajeroAutomatico\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:46:31.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 847,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opciones.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\Opciones.cs",
+              "RelativeDocumentMoniker": "CajeroAutomatico\\Class\\Opciones.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\Opciones.cs",
+              "RelativeToolTip": "CajeroAutomatico\\Class\\Opciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:35:08.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrarse.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\Registrarse.cs",
+              "RelativeDocumentMoniker": "CajeroAutomatico\\Class\\Registrarse.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\Registrarse.cs",
+              "RelativeToolTip": "CajeroAutomatico\\Class\\Registrarse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:51:17.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 771,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IniciarSeccion.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\IniciarSeccion.cs",
+              "RelativeDocumentMoniker": "CajeroAutomatico\\Class\\IniciarSeccion.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CajeroAutomatico\\CajeroAutomatico\\Class\\IniciarSeccion.cs",
+              "RelativeToolTip": "CajeroAutomatico\\Class\\IniciarSeccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:03:58.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

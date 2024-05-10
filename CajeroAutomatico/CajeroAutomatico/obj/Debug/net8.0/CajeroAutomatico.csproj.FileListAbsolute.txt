@@ -1,0 +1,14 @@
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\bin\Debug\net8.0\CajeroAutomatico.exe
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\bin\Debug\net8.0\CajeroAutomatico.deps.json
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\bin\Debug\net8.0\CajeroAutomatico.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\bin\Debug\net8.0\CajeroAutomatico.dll
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\bin\Debug\net8.0\CajeroAutomatico.pdb
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\CajeroAutomatico.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\CajeroAutomatico.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\CajeroAutomatico.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\CajeroAutomatico.dll
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\refint\CajeroAutomatico.dll
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\CajeroAutomatico.pdb
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\CajeroAutomatico.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\CajeroAutomatico\CajeroAutomatico\obj\Debug\net8.0\ref\CajeroAutomatico.dll
