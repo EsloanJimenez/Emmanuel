@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,28 @@
               "RelativeDocumentMoniker": "ClasesYObjetos\\Program.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Program.cs",
               "RelativeToolTip": "ClasesYObjetos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T14:45:06.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Persona.cs",
+              "RelativeDocumentMoniker": "ClasesYObjetos\\Persona.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Persona.cs",
+              "RelativeToolTip": "ClasesYObjetos\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:40:52.156Z",
               "EditorCaption": ""
             }
           ]

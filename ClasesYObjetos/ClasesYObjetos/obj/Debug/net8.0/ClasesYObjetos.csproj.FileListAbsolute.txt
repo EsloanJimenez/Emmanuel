@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.exe
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.deps.json
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.dll
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\bin\Debug\net8.0\ClasesYObjetos.pdb
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.sourcelink.json
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.dll
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\refint\ClasesYObjetos.dll
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.pdb
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ClasesYObjetos.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\ClasesYObjetos\ClasesYObjetos\obj\Debug\net8.0\ref\ClasesYObjetos.dll
