@@ -2,6 +2,6 @@
 {
     public interface IMostrarInformacion
     {
-        void mostrarInfo();
+        void MostrarInfo();
     }
 }

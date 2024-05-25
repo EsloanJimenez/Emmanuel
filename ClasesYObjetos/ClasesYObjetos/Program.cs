@@ -10,11 +10,13 @@
     Objetivo : Aprender a definir y utilizar métodos dentro de una clase.
 
     3. Herencia :
-    Ejercicio : Crea una clase Empleado que herede de la clase Persona e incluya atributos adicionales como puesto y salario. Implementa un método para mostrar toda la información del empleado en consola.
+    Ejercicio : Crea una clase Empleado que herede de la clase Persona e incluya atributos adicionales como puesto y salario. 
+    Implementa un método para mostrar toda la información del empleado en consola.
     Objetivo : Aprender sobre herencia y cómo extender clases existentes.
 
     4. Polimorfismo :
-    Ejercicio : Crea una clase Animal con un método hacerSonido(). Luego, crea clases derivadas como Perro y Gato que sobreescriban el método hacerSonido() para proporcionar implementaciones específicas.
+    Ejercicio : Crea una clase Animal con un método hacerSonido(). 
+    Luego, crea clases derivadas como Perro y Gato que sobreescriban el método hacerSonido() para proporcionar implementaciones específicas.
     Objetivo : Comprender el polimorfismo y la capacidad de las clases derivadas para modificar comportamientos.
 */
 
@@ -23,14 +25,19 @@ using ClasesYObjetos.Clases;
 Console.Write("Cual es su nombre: \t");
 string nombre = Console.ReadLine();
 
-Console.Write("\nCuantos años tienes: \t");
+Console.Write("Cuantos años tienes: \t");
 int edad = int.Parse(Console.ReadLine());
 
-Console.Write("\nCual es su direccion: \t");
+Console.Write("Cual es su direccion: \t");
 string direccion = Console.ReadLine();
 
-Persona persona = new Persona(nombre, edad, direccion);
+Console.Write("Cual es su puesto: \t");
+string puesto = Console.ReadLine();
 
-persona.mostrarInfo();
-Console.WriteLine($"Año nacimiento: {persona.añoNacimiento()}");
+Console.Write("Cual es su salario: \t");
+decimal salario = decimal.Parse(Console.ReadLine());
+
+Empleado empleado = new Empleado(nombre, edad, direccion, puesto, salario);
+
+empleado.MostrarInfo();
 

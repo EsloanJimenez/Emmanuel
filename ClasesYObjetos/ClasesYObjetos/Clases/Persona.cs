@@ -15,13 +15,14 @@ namespace ClasesYObjetos.Clases
             _direccion = direccion;
         }
 
-        public void mostrarInfo()
+        public void MostrarInfo()
         {
             Console.WriteLine($"""
-                    Nombre:         {_nombre}
-                    Edad:           {_edad}
-                    Direccion:      {_direccion}
-                    """);
+                Nombre:         {_nombre}
+                Edad:           {_edad}
+                Direccion:      {_direccion}
+                Año nacimiento: {añoNacimiento()}
+             """);
         }
         public int añoNacimiento()
         {

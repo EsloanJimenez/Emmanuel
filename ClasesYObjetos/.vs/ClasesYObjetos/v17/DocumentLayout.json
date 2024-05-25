@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\clases\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\clases\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\clases\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\clases\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\interfaces\\imostrarinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\interfaces\\imostrarinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\clases\\calcularedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Perro.cs",
+              "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\Perro.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Perro.cs",
+              "RelativeToolTip": "ClasesYObjetos\\Clases\\Perro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:31:54.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMostrarInformacion.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Interfaces\\IMostrarInformacion.cs",
+              "RelativeDocumentMoniker": "ClasesYObjetos\\Interfaces\\IMostrarInformacion.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Interfaces\\IMostrarInformacion.cs",
+              "RelativeToolTip": "ClasesYObjetos\\Interfaces\\IMostrarInformacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:20:34.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Program.cs",
               "RelativeDocumentMoniker": "ClasesYObjetos\\Program.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Program.cs",
               "RelativeToolTip": "ClasesYObjetos\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCIAAAAkAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T14:45:06.54Z",
               "EditorCaption": ""
@@ -40,31 +82,44 @@
           ]
         },
         {
-          "DockedHeight": 350,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 414,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Persona.cs",
               "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Persona.cs",
               "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\Persona.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Persona.cs",
               "RelativeToolTip": "ClasesYObjetos\\Clases\\Persona.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswBQAAAAkAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T16:40:52.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Animal.cs",
+              "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\Animal.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Animal.cs",
+              "RelativeToolTip": "ClasesYObjetos\\Clases\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:30:49.991Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 285,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 221,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CalcularEdad.cs",
               "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\CalcularEdad.cs",
               "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\CalcularEdad.cs",
@@ -73,6 +128,19 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T16:50:53.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\Empleado.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Empleado.cs",
+              "RelativeToolTip": "ClasesYObjetos\\Clases\\Empleado.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T17:17:30.457Z",
               "EditorCaption": ""
             }
           ]
