@@ -20,13 +20,17 @@
 
 using ClasesYObjetos.Clases;
 
-Persona persona = new Persona("Enrique", 30, "Sagrario Diaz");
+Console.Write("Cual es su nombre: \t");
+string nombre = Console.ReadLine();
 
-persona.mostrarInfo();
-
-Console.Write("\nCuantos años tienes: ");
+Console.Write("\nCuantos años tienes: \t");
 int edad = int.Parse(Console.ReadLine());
 
-CalcularEdad calcularEdad = new CalcularEdad(edad);
+Console.Write("\nCual es su direccion: \t");
+string direccion = Console.ReadLine();
 
-Console.WriteLine(calcularEdad.añoNacimiento());
+Persona persona = new Persona(nombre, edad, direccion);
+
+persona.mostrarInfo();
+Console.WriteLine($"Año nacimiento: {persona.añoNacimiento()}");
+

@@ -21,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 175,
+          "DockedHeight": 337,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ClasesYObjetos\\Program.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Program.cs",
               "RelativeToolTip": "ClasesYObjetos\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwBoAAAARAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T14:45:06.54Z",
               "EditorCaption": ""
@@ -40,7 +40,7 @@
           ]
         },
         {
-          "DockedHeight": 374,
+          "DockedHeight": 350,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -51,7 +51,7 @@
               "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\Persona.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Persona.cs",
               "RelativeToolTip": "ClasesYObjetos\\Clases\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T16:40:52.156Z",
               "EditorCaption": ""
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "DockedHeight": 423,
+          "DockedHeight": 285,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\CalcularEdad.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\CalcularEdad.cs",
               "RelativeToolTip": "ClasesYObjetos\\Clases\\CalcularEdad.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T16:50:53.232Z",
               "EditorCaption": ""

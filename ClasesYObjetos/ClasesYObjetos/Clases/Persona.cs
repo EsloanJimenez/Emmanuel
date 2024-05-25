@@ -18,10 +18,17 @@ namespace ClasesYObjetos.Clases
         public void mostrarInfo()
         {
             Console.WriteLine($"""
-                    Nombre:     {_nombre}
-                    Edad:       {_edad}
-                    Direccion:  {_direccion}
+                    Nombre:         {_nombre}
+                    Edad:           {_edad}
+                    Direccion:      {_direccion}
                     """);
+        }
+        public int añoNacimiento()
+        {
+            int añoAcual = DateTime.Now.Year;
+            int nacimiento = añoAcual - _edad;
+
+            return nacimiento;
         }
     }
 }
