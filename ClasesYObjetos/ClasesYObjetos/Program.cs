@@ -39,5 +39,18 @@ decimal salario = decimal.Parse(Console.ReadLine());
 
 Empleado empleado = new Empleado(nombre, edad, direccion, puesto, salario);
 
+Console.WriteLine();
+
 empleado.MostrarInfo();
 
+Console.WriteLine("");
+
+Perro perro = new Perro();
+Gato gato = new Gato();
+
+
+Console.Write("El sonido del perro es: ");
+perro.HacerSonido();
+
+Console.Write("El sonido del gato es: \t");
+gato.HacerSonido();

@@ -1,6 +1,4 @@
-﻿using ClasesYObjetos.Interfaces;
-
-namespace ClasesYObjetos.Clases
+﻿namespace ClasesYObjetos.Clases
 {
     public class Empleado : Persona
     {
@@ -17,8 +15,8 @@ namespace ClasesYObjetos.Clases
         {
             base.MostrarInfo();
             Console.WriteLine($"""
-                Puesto:         {_puesto}
-                Salario:        {_salario}
+                Puesto:              {_puesto}
+                Salario:             {_salario}
              """);
         }
     }

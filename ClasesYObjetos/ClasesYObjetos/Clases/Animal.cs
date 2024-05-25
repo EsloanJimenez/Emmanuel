@@ -2,9 +2,9 @@
 {
     public class Animal
     {
-        public void HacerSonido()
+        public virtual void HacerSonido()
         {
-
+            Console.WriteLine("Haciendo sonido...");
         }
     }
 }

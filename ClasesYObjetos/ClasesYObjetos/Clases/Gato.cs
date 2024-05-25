@@ -1,10 +1,10 @@
 ﻿namespace ClasesYObjetos.Clases
 {
-    public class Perro : Animal
+    public class Gato : Animal
     {
         public override void HacerSonido()
         {
-            Console.WriteLine("hau hau, hau hau...");
+            Console.WriteLine("Miiaaauuuuu...");
         }
     }
 }
