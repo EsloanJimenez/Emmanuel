@@ -18,8 +18,15 @@
     Objetivo : Comprender el polimorfismo y la capacidad de las clases derivadas para modificar comportamientos.
 */
 
-using ClasesYObjetos;
+using ClasesYObjetos.Clases;
 
 Persona persona = new Persona("Enrique", 30, "Sagrario Diaz");
 
 persona.mostrarInfo();
+
+Console.Write("\nCuantos años tienes: ");
+int edad = int.Parse(Console.ReadLine());
+
+CalcularEdad calcularEdad = new CalcularEdad(edad);
+
+Console.WriteLine(calcularEdad.añoNacimiento());

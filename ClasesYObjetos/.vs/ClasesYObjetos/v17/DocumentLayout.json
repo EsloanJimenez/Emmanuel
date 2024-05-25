@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|d:\\cursos\\emmanuel\\programas\\clasesyobjetos\\clasesyobjetos\\clases\\calcularedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C8FFDE-061A-4609-95C6-9F19A1ECA451}|ClasesYObjetos\\ClasesYObjetos.csproj|solutionrelative:clasesyobjetos\\clases\\calcularedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 243,
+          "DockedHeight": 175,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "ClasesYObjetos\\Program.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Program.cs",
               "RelativeToolTip": "ClasesYObjetos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T14:45:06.54Z",
               "EditorCaption": ""
@@ -36,20 +40,39 @@
           ]
         },
         {
-          "DockedHeight": 243,
+          "DockedHeight": 374,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Persona.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Persona.cs",
-              "RelativeDocumentMoniker": "ClasesYObjetos\\Persona.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Persona.cs",
-              "RelativeToolTip": "ClasesYObjetos\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\Persona.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\Persona.cs",
+              "RelativeToolTip": "ClasesYObjetos\\Clases\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T16:40:52.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 423,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalcularEdad.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\CalcularEdad.cs",
+              "RelativeDocumentMoniker": "ClasesYObjetos\\Clases\\CalcularEdad.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ClasesYObjetos\\ClasesYObjetos\\Clases\\CalcularEdad.cs",
+              "RelativeToolTip": "ClasesYObjetos\\Clases\\CalcularEdad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:50:53.232Z",
               "EditorCaption": ""
             }
           ]

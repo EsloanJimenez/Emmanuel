@@ -1,10 +1,8 @@
-﻿namespace ClasesYObjetos
+﻿using ClasesYObjetos.Interfaces;
+
+namespace ClasesYObjetos.Clases
 {
-    public interface MostrandoInformacion
-    {
-        void mostrarInfo();
-    }
-    public class Persona : MostrandoInformacion
+    public class Persona : IMostrarInformacion
     {
         private string? _nombre;
         private int _edad;
@@ -20,10 +18,10 @@
         public void mostrarInfo()
         {
             Console.WriteLine($"""
-                Nombre:     {_nombre}
-                Edad:       {_edad}
-                Direccion:  {_direccion}
-                """);
+                    Nombre:     {_nombre}
+                    Edad:       {_edad}
+                    Direccion:  {_direccion}
+                    """);
         }
     }
 }
