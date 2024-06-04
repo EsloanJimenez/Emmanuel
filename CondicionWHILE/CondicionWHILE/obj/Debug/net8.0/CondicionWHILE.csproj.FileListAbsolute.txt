@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\bin\Debug\net8.0\CondicionWHILE.exe
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\bin\Debug\net8.0\CondicionWHILE.deps.json
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\bin\Debug\net8.0\CondicionWHILE.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\bin\Debug\net8.0\CondicionWHILE.dll
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\bin\Debug\net8.0\CondicionWHILE.pdb
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.sourcelink.json
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.dll
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\refint\CondicionWHILE.dll
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.pdb
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\CondicionWHILE.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\CondicionWHILE\CondicionWHILE\obj\Debug\net8.0\ref\CondicionWHILE.dll
