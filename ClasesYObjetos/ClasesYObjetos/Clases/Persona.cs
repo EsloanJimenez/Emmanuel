@@ -13,7 +13,7 @@
             _direccion = direccion;
         }
 
-        public void MostrarInfo()
+        public virtual void MostrarInfo()
         {
             Console.WriteLine($"""
                 Nombre:              {_nombre}

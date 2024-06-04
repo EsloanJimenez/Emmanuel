@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\bin\Debug\net8.0\BucleDoWhile.exe
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\bin\Debug\net8.0\BucleDoWhile.deps.json
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\bin\Debug\net8.0\BucleDoWhile.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\bin\Debug\net8.0\BucleDoWhile.dll
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\bin\Debug\net8.0\BucleDoWhile.pdb
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.sourcelink.json
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.dll
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\refint\BucleDoWhile.dll
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.pdb
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\BucleDoWhile.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\BucleDoWhile\BucleDoWhile\obj\Debug\net8.0\ref\BucleDoWhile.dll

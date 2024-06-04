@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.exe
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.deps.json
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.dll
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\bin\Debug\net8.0\CondicionalSwitch.pdb
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.sourcelink.json
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.dll
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\refint\CondicionalSwitch.dll
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.pdb
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\CondicionalSwitch.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\CondicionalSwitch\CondicionalSwitch\obj\Debug\net8.0\ref\CondicionalSwitch.dll

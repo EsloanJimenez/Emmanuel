@@ -5,13 +5,14 @@
         private string? _puesto;
         private decimal _salario;
 
-        public Empleado(string? nombre, int edad, string? direccion, string? puesto, decimal salario) : base(nombre, edad, direccion)
+        public Empleado(string? nombre, int edad, string? direccion, string? puesto, decimal salario)
+            : base(nombre, edad, direccion)
         {
             _puesto = puesto;
             _salario = salario;
         }
 
-        public void MostrarInfo()
+        public override void MostrarInfo()
         {
             base.MostrarInfo();
             Console.WriteLine($"""

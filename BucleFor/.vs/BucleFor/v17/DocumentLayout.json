@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Emmanuel\\Programas\\BucleFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61437CE-9900-4155-AC25-73A27EEC148C}|BucleFor\\BucleFor.csproj|d:\\cursos\\emmanuel\\programas\\buclefor\\buclefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61437CE-9900-4155-AC25-73A27EEC148C}|BucleFor\\BucleFor.csproj|solutionrelative:buclefor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\BucleFor\\BucleFor\\Program.cs",
+              "RelativeDocumentMoniker": "BucleFor\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\BucleFor\\BucleFor\\Program.cs",
+              "RelativeToolTip": "BucleFor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:45:57.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

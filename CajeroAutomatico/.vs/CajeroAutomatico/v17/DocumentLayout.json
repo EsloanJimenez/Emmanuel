@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 946,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -87,8 +87,7 @@
               "RelativeToolTip": "CajeroAutomatico\\Class\\Registrarse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T14:51:17.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T14:51:17.885Z"
             }
           ]
         },

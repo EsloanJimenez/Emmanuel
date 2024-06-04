@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\bin\Debug\net8.0\BucleFor.exe
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\bin\Debug\net8.0\BucleFor.deps.json
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\bin\Debug\net8.0\BucleFor.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\bin\Debug\net8.0\BucleFor.dll
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\bin\Debug\net8.0\BucleFor.pdb
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.sourcelink.json
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.dll
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\refint\BucleFor.dll
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.pdb
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\BucleFor.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\BucleFor\BucleFor\obj\Debug\net8.0\ref\BucleFor.dll
