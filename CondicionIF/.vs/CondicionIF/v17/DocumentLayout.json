@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Emmanuel\\Programas\\CondicionIF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A105039-A0BD-43E0-960E-3D54FE258B09}|CondicionIF\\CondicionIF.csproj|d:\\cursos\\emmanuel\\programas\\condicionif\\condicionif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A105039-A0BD-43E0-960E-3D54FE258B09}|CondicionIF\\CondicionIF.csproj|solutionrelative:condicionif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A105039-A0BD-43E0-960E-3D54FE258B09}|CondicionIF\\CondicionIF.csproj|d:\\cursos\\emmanuel\\programas\\condicionif\\condicionif\\condicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A105039-A0BD-43E0-960E-3D54FE258B09}|CondicionIF\\CondicionIF.csproj|solutionrelative:condicionif\\condicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CondicionIF\\CondicionIF\\Program.cs",
+              "RelativeDocumentMoniker": "CondicionIF\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CondicionIF\\CondicionIF\\Program.cs",
+              "RelativeToolTip": "CondicionIF\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T01:16:41.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 169,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Condicion.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CondicionIF\\CondicionIF\\Condicion.cs",
+              "RelativeDocumentMoniker": "CondicionIF\\Condicion.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CondicionIF\\CondicionIF\\Condicion.cs",
+              "RelativeToolTip": "CondicionIF\\Condicion.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA1wDQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T02:06:34.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

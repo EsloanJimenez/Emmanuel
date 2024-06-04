@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\bin\Debug\net8.0\CondicionIF.exe
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\bin\Debug\net8.0\CondicionIF.deps.json
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\bin\Debug\net8.0\CondicionIF.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\bin\Debug\net8.0\CondicionIF.dll
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\bin\Debug\net8.0\CondicionIF.pdb
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.sourcelink.json
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.dll
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\refint\CondicionIF.dll
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.pdb
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\CondicionIF.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\CondicionIF\CondicionIF\obj\Debug\net8.0\ref\CondicionIF.dll
