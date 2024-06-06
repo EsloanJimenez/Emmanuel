@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\bin\Debug\net8.0\BucleForEach.exe
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\bin\Debug\net8.0\BucleForEach.deps.json
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\bin\Debug\net8.0\BucleForEach.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\bin\Debug\net8.0\BucleForEach.dll
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\bin\Debug\net8.0\BucleForEach.pdb
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.sourcelink.json
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.dll
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\refint\BucleForEach.dll
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.pdb
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\BucleForEach.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\BucleForEach\BucleForEach\obj\Debug\net8.0\ref\BucleForEach.dll
