@@ -6,11 +6,13 @@
         {
             // IF - CON UNA SOLA LINEA DE CODIGO Y UNA SOLA CONDICION -
 
-            if (numeroRandon <= 5) Console.WriteLine("El numero es menor a 5");
+            if (numeroRandon <= 5) 
+                Console.WriteLine("El numero es menor a 5");
 
             // IF - CON UNA SOLA LINEA DE CODIGO Y VARIAS CONDICIONES -
 
-            if (numeroRandon >= 6 && numeroRandon <= 10) Console.WriteLine("El numero esta entre 6 y 10");
+            if (numeroRandon >= 6 && numeroRandon <= 10) 
+                Console.WriteLine("El numero esta entre 6 y 10");
 
 
             // IF - CON VARIAS LINEAS DE CODIGO -
@@ -28,9 +30,12 @@
 
             // IF, ELSE IF, ELSE CON UNA SOLA LINEA DE CODIGO -
 
-            if (numeroRandon >= 21 && numeroRandon <= 25) Console.WriteLine("Esta entre 21 y 25");
-            else if (numeroRandon >= 26 && numeroRandon <= 30) Console.WriteLine("Esta entre 26 y 30");
-            else Console.WriteLine("Es mayor a 30");
+            if (numeroRandon >= 21 && numeroRandon <= 25) 
+                Console.WriteLine("Esta entre 21 y 25");
+            else if (numeroRandon >= 26 && numeroRandon <= 30) 
+                Console.WriteLine("Esta entre 26 y 30");
+            else 
+                Console.WriteLine("Es mayor a 30");
 
 
             //IF ANIDADOS
@@ -53,6 +58,21 @@
             string result = (nombre.Length >= 7) ? "El nombre es muy largo" : "El nombre tiene buana longitud";
 
             Console.WriteLine(result);
+
+            if(true)
+            {
+                //codigo a ejercutar
+            }
+
+            string mostrar = (true) ? "verdadero" : "falso";
+
+            if(true)
+            {
+                mostrar = "verdadero";
+            } else
+            {
+                mostrar = "falso";
+            }
         }
     }
 }

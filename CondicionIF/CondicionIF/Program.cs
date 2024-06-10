@@ -1,5 +1,4 @@
-﻿
-using CondicionIF;
+﻿using CondicionIF;
 
 Random random = new Random();
 int numeroRandon = random.Next(1, 100);
