@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\bin\Debug\net8.0\ColeccionStack.exe
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\bin\Debug\net8.0\ColeccionStack.deps.json
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\bin\Debug\net8.0\ColeccionStack.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\bin\Debug\net8.0\ColeccionStack.dll
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\bin\Debug\net8.0\ColeccionStack.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.sourcelink.json
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.dll
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\refint\ColeccionStack.dll
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ColeccionStack.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\ColeccionStack\ColeccionStack\obj\Debug\net8.0\ref\ColeccionStack.dll
