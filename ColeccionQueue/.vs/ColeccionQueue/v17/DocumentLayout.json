@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cursos\\Emmanuel\\Programas\\ColeccionQueue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD80CE9A-B6B9-4A6B-8985-307E7ED0B7AD}|ColeccionQueue\\ColeccionQueue.csproj|d:\\cursos\\emmanuel\\programas\\coleccionqueue\\coleccionqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD80CE9A-B6B9-4A6B-8985-307E7ED0B7AD}|ColeccionQueue\\ColeccionQueue.csproj|solutionrelative:coleccionqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ColeccionQueue\\ColeccionQueue\\Program.cs",
+              "RelativeDocumentMoniker": "ColeccionQueue\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ColeccionQueue\\ColeccionQueue\\Program.cs",
+              "RelativeToolTip": "ColeccionQueue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:43:10.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\bin\Debug\net8.0\ColeccionQueue.exe
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\bin\Debug\net8.0\ColeccionQueue.deps.json
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\bin\Debug\net8.0\ColeccionQueue.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\bin\Debug\net8.0\ColeccionQueue.dll
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\bin\Debug\net8.0\ColeccionQueue.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.sourcelink.json
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.dll
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\refint\ColeccionQueue.dll
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ColeccionQueue.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\ColeccionQueue\ColeccionQueue\obj\Debug\net8.0\ref\ColeccionQueue.dll
