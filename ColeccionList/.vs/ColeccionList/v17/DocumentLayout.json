@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 82,
+          "DockedHeight": 64,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "ColeccionList\\Program.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ColeccionList\\ColeccionList\\Program.cs",
               "RelativeToolTip": "ColeccionList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T19:23:14.375Z",
               "EditorCaption": ""

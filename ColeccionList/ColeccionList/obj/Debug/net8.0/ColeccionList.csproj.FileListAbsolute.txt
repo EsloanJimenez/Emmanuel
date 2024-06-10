@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\bin\Debug\net8.0\ColeccionList.exe
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\bin\Debug\net8.0\ColeccionList.deps.json
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\bin\Debug\net8.0\ColeccionList.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\bin\Debug\net8.0\ColeccionList.dll
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\bin\Debug\net8.0\ColeccionList.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.sourcelink.json
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.dll
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\refint\ColeccionList.dll
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ColeccionList.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\ColeccionList\ColeccionList\obj\Debug\net8.0\ref\ColeccionList.dll
