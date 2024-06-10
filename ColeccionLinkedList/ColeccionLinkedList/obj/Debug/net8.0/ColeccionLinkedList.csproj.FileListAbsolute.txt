@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\bin\Debug\net8.0\ColeccionLinkedList.exe
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\bin\Debug\net8.0\ColeccionLinkedList.deps.json
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\bin\Debug\net8.0\ColeccionLinkedList.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\bin\Debug\net8.0\ColeccionLinkedList.dll
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\bin\Debug\net8.0\ColeccionLinkedList.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.sourcelink.json
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.dll
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\refint\ColeccionLinkedList.dll
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ColeccionLinkedList.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\ColeccionLinkedList\ColeccionLinkedList\obj\Debug\net8.0\ref\ColeccionLinkedList.dll
