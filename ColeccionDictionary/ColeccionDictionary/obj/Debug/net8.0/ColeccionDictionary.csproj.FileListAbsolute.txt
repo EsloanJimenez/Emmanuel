@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\bin\Debug\net8.0\ColeccionDictionary.exe
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\bin\Debug\net8.0\ColeccionDictionary.deps.json
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\bin\Debug\net8.0\ColeccionDictionary.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\bin\Debug\net8.0\ColeccionDictionary.dll
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\bin\Debug\net8.0\ColeccionDictionary.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.sourcelink.json
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.dll
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\refint\ColeccionDictionary.dll
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.pdb
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ColeccionDictionary.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\ColeccionDictionary\ColeccionDictionary\obj\Debug\net8.0\ref\ColeccionDictionary.dll
