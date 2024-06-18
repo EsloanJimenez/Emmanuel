@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.exe
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.deps.json
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.dll
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\bin\Debug\net8.0\ListaEstudiantes.pdb
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.sourcelink.json
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.dll
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\refint\ListaEstudiantes.dll
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.pdb
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ListaEstudiantes.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\ListaEstudiantes\ListaEstudiantes\obj\Debug\net8.0\ref\ListaEstudiantes.dll
