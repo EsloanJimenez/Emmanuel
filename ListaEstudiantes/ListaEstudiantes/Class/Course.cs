@@ -1,8 +1,6 @@
 ﻿using ListaEstudiantes.Entity;
 using ListaEstudiantes.Interface;
 using static System.Console;
-using System.Linq.Expressions;
-using System.Threading.Tasks;
 
 namespace ListaEstudiantes.Class
 {
@@ -11,33 +9,29 @@ namespace ListaEstudiantes.Class
         public IList<Person> Members { get; set; } = new List<Person>();
         string firstName, lastName;
 
-        public async Task<TEntity> Get(int id)
+        public List<Person> GetAll()
         {
-            return (TEntity)await Task.Run(() =>
-            {
-                return Members.Where(student => student.Id == id);
-            });
+            return Members.ToList();
         }
 
-        public async Task<List<TEntity>> GetAll()
+        public void Save<TEntity>(TEntity entity) where TEntity : Person
         {
-            return (List<TEntity>)await Task.Run(() =>
+            var idExist = Members.FirstOrDefault(cd => cd.Id == entity.Id);
+
+            if (idExist != null)
             {
-                return Members;
-            });
+                WriteLine("There is already a user with this ID");
+                WriteLine("Please enter another ID");
+                return;
+            }
+            else
+            {
+                Members.Add(entity);
+                WriteLine("\nSuccessfully added");
+            }
         }
 
-        public async Task Save<TEntity>(TEntity entity) where TEntity : Person
-        {
-            await Task.Run(() =>
-            {
-                var list = Members.ToList();
-                list.Add(entity);
-                Members = list;
-            });
-        }
-
-        public async Task Update(int id)
+        public void Update(int id)
         {
             WriteLine($"Editing student with id {id}");
             Write("First Name: \t");
@@ -45,36 +39,33 @@ namespace ListaEstudiantes.Class
             Write("Last Name: \t");
             lastName = ReadLine();
 
-            var updateStudent = new Person { Id = id, FirstName = firstName, LastName = lastName };
 
-            await Task.Run(() =>
+            var studentToUpdate = Members.FirstOrDefault(cd => cd.Id == id);
+
+            if (studentToUpdate != null)
             {
-                var studentToUpdate = Members.FirstOrDefault(cd => cd.Id == id);
-                if (studentToUpdate != null)
-                {
-                    studentToUpdate.FirstName = firstName;
-                    studentToUpdate.LastName = lastName;
-                } else
-                {
-                    WriteLine($"The student with the ID {id} was not found");
-                }
-            });
+                studentToUpdate.FirstName = firstName;
+                studentToUpdate.LastName = lastName;
+            }
+            else
+            {
+                WriteLine($"The student with the ID {id} was not found");
+            }
         }
 
-        public async Task Delete(int id)
+        public void Delete(int id)
         {
-            await Task.Run(() =>
+            var studentToDelete = Members.FirstOrDefault(cd => cd.Id == id);
+
+            if (studentToDelete != null)
             {
-                var studentToDelete = Members.FirstOrDefault(cd => cd.Id == id);
-                if (studentToDelete != null)
-                {
-                    Members.Remove(studentToDelete);
-                    WriteLine($"The student with ID {id} was successfully removed.");
-                } else
-                {
-                    WriteLine($"The student with ID {id} was not found");
-                }
-            });
+                Members.Remove(studentToDelete);
+                WriteLine($"The student with ID {id} was successfully removed.");
+            }
+            else
+            {
+                WriteLine($"The student with ID {id} was not found");
+            }
         }
     }
 }

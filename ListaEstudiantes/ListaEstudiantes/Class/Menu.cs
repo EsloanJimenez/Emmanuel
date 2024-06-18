@@ -1,8 +1,8 @@
 ﻿namespace ListaEstudiantes.Class
 {
-    public class Menu
+    public static class Menu
     {
-        public void Option()
+        public static void Option()
         {
             Console.WriteLine("Select to option");
             Console.WriteLine($"""

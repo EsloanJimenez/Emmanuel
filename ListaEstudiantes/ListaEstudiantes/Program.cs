@@ -1,9 +1,8 @@
 ﻿using ListaEstudiantes.Class;
 using ListaEstudiantes.Entity;
+using ListaEstudiantes.Excep;
 using static System.Console;
 
-var menu = new Menu();
-var repeat = new Repeat();
 var students = new Course<Person>();
 
 WriteLine("Welcom to list students \n");
@@ -13,9 +12,17 @@ string firstName, lastName;
 
 do
 {
-    menu.Option();
-    Op = int.Parse(Console.ReadLine());
-
+    try
+    {
+        Menu.Option();
+        Op = int.Parse(Console.ReadLine());
+    }
+    catch (Exception ex)
+    {
+        WriteLine(ex.Message);
+        WriteLine("Select a numerical data type\n");
+    }
+    
     switch (Op)
     {
         case 1:
@@ -27,15 +34,15 @@ do
 
             Write("LastName: \t");
             lastName = ReadLine();
+
             var newStudent = new Person { Id = id, FirstName = firstName, LastName = lastName };
-            await students.Save(newStudent);
 
-            WriteLine("\nSuccessfully added");
+            students.Save(newStudent);
 
-            Op = repeat.Repeating();
+            Op = Repeat.Repeating();
         break;
         case 2:
-            IEnumerable<Person> allStudent = await students.GetAll();
+            IEnumerable<Person> allStudent = students.GetAll();
 
             WriteLine("\nList Students");
             foreach (var student in allStudent)
@@ -48,7 +55,7 @@ do
                 WriteLine();
             }
 
-            Op = repeat.Repeating();
+            Op = Repeat.Repeating();
         break;
         case 3:
             Write("\nEnter the ID of the student you want to edit: ");
@@ -56,7 +63,7 @@ do
 
             students.Update(id);
 
-            repeat.Repeating();
+            Op = Repeat.Repeating();
 
             break;
         case 4:
@@ -64,14 +71,14 @@ do
             id = int.Parse(ReadLine());
 
             students.Delete(id);
-            Op = repeat.Repeating();
+            Op = Repeat.Repeating();
         break;
         case 5:
         break;
         default:
-            WriteLine("La Opcion seleccionada no esta contemplada");
+            WriteLine("The selected Option is not contemplated\n");
             break;
     }
 } while(Op <= 0 || Op > 5);
 
-WriteLine("You left the program");
+WriteLine("See you later");

@@ -11,16 +11,8 @@
       "RelativeMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|solutionrelative:listaestudiantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|d:\\cursos\\emmanuel\\programas\\listaestudiantes\\listaestudiantes\\class\\repeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|solutionrelative:listaestudiantes\\class\\repeat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|d:\\cursos\\emmanuel\\programas\\listaestudiantes\\listaestudiantes\\class\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|solutionrelative:listaestudiantes\\class\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|d:\\cursos\\emmanuel\\programas\\listaestudiantes\\listaestudiantes\\interface\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|solutionrelative:listaestudiantes\\interface\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|d:\\cursos\\emmanuel\\programas\\listaestudiantes\\listaestudiantes\\excep\\wrongtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCDDFBD-445C-4E16-B69B-B9B56EB93BB7}|ListaEstudiantes\\ListaEstudiantes.csproj|solutionrelative:listaestudiantes\\excep\\wrongtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 105,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPerson.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Interface\\IPerson.cs",
-              "RelativeDocumentMoniker": "ListaEstudiantes\\Interface\\IPerson.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Interface\\IPerson.cs",
-              "RelativeToolTip": "ListaEstudiantes\\Interface\\IPerson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T07:09:30.841Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -53,7 +32,7 @@
               "RelativeDocumentMoniker": "ListaEstudiantes\\Program.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Program.cs",
               "RelativeToolTip": "ListaEstudiantes\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAkwEEAAAAgAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCUAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T06:59:58.556Z",
               "EditorCaption": ""
@@ -62,34 +41,8 @@
         },
         {
           "DockedHeight": 95,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Class\\Menu.cs",
-              "RelativeDocumentMoniker": "ListaEstudiantes\\Class\\Menu.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Class\\Menu.cs",
-              "RelativeToolTip": "ListaEstudiantes\\Class\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T09:59:28.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repeat.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Class\\Repeat.cs",
-              "RelativeDocumentMoniker": "ListaEstudiantes\\Class\\Repeat.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Class\\Repeat.cs",
-              "RelativeToolTip": "ListaEstudiantes\\Class\\Repeat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T09:10:57.926Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -98,9 +51,22 @@
               "RelativeDocumentMoniker": "ListaEstudiantes\\Class\\Course.cs",
               "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Class\\Course.cs",
               "RelativeToolTip": "ListaEstudiantes\\Class\\Course.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDoAAAA8AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwBcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T07:19:29.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrongType.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Excep\\WrongType.cs",
+              "RelativeDocumentMoniker": "ListaEstudiantes\\Excep\\WrongType.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\ListaEstudiantes\\ListaEstudiantes\\Excep\\WrongType.cs",
+              "RelativeToolTip": "ListaEstudiantes\\Excep\\WrongType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:38:12.782Z",
               "EditorCaption": ""
             }
           ]

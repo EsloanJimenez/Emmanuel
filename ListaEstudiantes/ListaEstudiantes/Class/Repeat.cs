@@ -1,10 +1,9 @@
 ﻿namespace ListaEstudiantes.Class
 {
-    public class Repeat
+    public static class Repeat
     {
-        private char Select { get; set; }
-        public int Op { get; set; }
-        public int Repeating()
+        private static char Select { get; set; }
+        public static int Repeating()
         {
 
             Console.Write("\nDo you want to exit the program? Y/N: ");
