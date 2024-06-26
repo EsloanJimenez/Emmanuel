@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|d:\\cursos\\emmanuel\\programas\\carritodecompras\\carritodecompras\\clases\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\clases\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|d:\\cursos\\emmanuel\\programas\\carritodecompras\\carritodecompras\\clases\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\clases\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|d:\\cursos\\emmanuel\\programas\\carritodecompras\\carritodecompras\\clases\\validateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\clases\\validateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|d:\\cursos\\emmanuel\\programas\\carritodecompras\\carritodecompras\\clases\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\clases\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|d:\\cursos\\emmanuel\\programas\\carritodecompras\\carritodecompras\\clases\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\clases\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|d:\\cursos\\emmanuel\\programas\\carritodecompras\\carritodecompras\\entidades\\productselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|solutionrelative:carritodecompras\\entidades\\productselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AF51331-F4D2-4A5A-8D6B-641D3B2D5C8D}|CarritoDeCompras\\CarritoDeCompras.csproj|d:\\cursos\\emmanuel\\programas\\carritodecompras\\carritodecompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,77 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 645,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Program.cs",
-              "RelativeDocumentMoniker": "CarritoDeCompras\\Program.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Program.cs",
-              "RelativeToolTip": "CarritoDeCompras\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T13:51:49.803Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 835,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ValidateInput.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\ValidateInput.cs",
-              "RelativeDocumentMoniker": "CarritoDeCompras\\Clases\\ValidateInput.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\ValidateInput.cs",
-              "RelativeToolTip": "CarritoDeCompras\\Clases\\ValidateInput.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Title": "ProductSelection.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Entidades\\ProductSelection.cs",
+              "RelativeDocumentMoniker": "CarritoDeCompras\\Entidades\\ProductSelection.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Entidades\\ProductSelection.cs",
+              "RelativeToolTip": "CarritoDeCompras\\Entidades\\ProductSelection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T04:05:11.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductView.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\ProductView.cs",
-              "RelativeDocumentMoniker": "CarritoDeCompras\\Clases\\ProductView.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\ProductView.cs",
-              "RelativeToolTip": "CarritoDeCompras\\Clases\\ProductView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T04:04:21.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\Menu.cs",
-              "RelativeDocumentMoniker": "CarritoDeCompras\\Clases\\Menu.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\Menu.cs",
-              "RelativeToolTip": "CarritoDeCompras\\Clases\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T04:04:02.306Z",
+              "WhenOpened": "2024-06-26T05:06:41.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Shopping.cs",
-              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\Shopping.cs",
-              "RelativeDocumentMoniker": "CarritoDeCompras\\Clases\\Shopping.cs",
-              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\Shopping.cs",
-              "RelativeToolTip": "CarritoDeCompras\\Clases\\Shopping.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABoAAAA",
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\Car.cs",
+              "RelativeDocumentMoniker": "CarritoDeCompras\\Clases\\Car.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Clases\\Car.cs",
+              "RelativeToolTip": "CarritoDeCompras\\Clases\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:19:59.787Z",
+              "WhenOpened": "2024-06-26T04:59:18.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Program.cs",
+              "RelativeDocumentMoniker": "CarritoDeCompras\\Program.cs",
+              "ToolTip": "D:\\Cursos\\Emmanuel\\Programas\\CarritoDeCompras\\CarritoDeCompras\\Program.cs",
+              "RelativeToolTip": "CarritoDeCompras\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:51:49.803Z",
               "EditorCaption": ""
             }
           ]

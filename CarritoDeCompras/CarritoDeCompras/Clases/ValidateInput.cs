@@ -17,7 +17,6 @@ namespace ListaEstudiantes.Class
         {
             int op;
             while(!int.TryParse(Console.ReadLine(), out op) || !Enum.IsDefined(typeof(Option), op))
-
                 Console.Write("Entrada inválida. Por favor ingresa una opción válida: ");
             return op;
         }

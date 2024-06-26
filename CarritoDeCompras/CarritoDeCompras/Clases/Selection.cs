@@ -4,7 +4,6 @@ namespace CarritoDeCompras.Clases
 {
     public static class Selection
     {
-
         public static List<ProductSelection> SelectProductById(Product[] products, Dictionary<int, int> idQuantity)
         {
             List<ProductSelection> selectsProducts = new List<ProductSelection>();
@@ -25,7 +24,6 @@ namespace CarritoDeCompras.Clases
                         }
                     );
                 }
-                    
             }
             return selectsProducts;
         }

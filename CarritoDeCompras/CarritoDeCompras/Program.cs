@@ -1,8 +1,9 @@
-﻿using CarritoDeCompras.Clases;
+﻿using static System.Console;
+
+using CarritoDeCompras.Clases;
 using CarritoDeCompras.Entidades;
 using CarritoDeCompras.Enum;
 using ListaEstudiantes.Class;
-using static System.Console;
 
 Product[] products = ProductView.ProductList();
 Shopping shopping = new Shopping();
