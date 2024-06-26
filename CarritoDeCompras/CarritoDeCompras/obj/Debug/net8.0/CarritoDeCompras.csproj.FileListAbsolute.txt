@@ -1,0 +1,15 @@
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\bin\Debug\net8.0\CarritoDeCompras.exe
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\bin\Debug\net8.0\CarritoDeCompras.deps.json
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\bin\Debug\net8.0\CarritoDeCompras.runtimeconfig.json
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\bin\Debug\net8.0\CarritoDeCompras.dll
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\bin\Debug\net8.0\CarritoDeCompras.pdb
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.AssemblyInfoInputs.cache
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.AssemblyInfo.cs
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.csproj.CoreCompileInputs.cache
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.sourcelink.json
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.dll
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\refint\CarritoDeCompras.dll
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.pdb
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\CarritoDeCompras.genruntimeconfig.cache
+D:\Cursos\Emmanuel\Programas\CarritoDeCompras\CarritoDeCompras\obj\Debug\net8.0\ref\CarritoDeCompras.dll
