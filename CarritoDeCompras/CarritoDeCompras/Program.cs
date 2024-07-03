@@ -19,7 +19,7 @@ do
     switch(op)
     {
         case (int)Option.AddArticle:
-            WriteLine("Elija los articulos que va a desear por su -ID-");
+            WriteLine("\nElija los articulos que va a desear por su -ID-");
             ProductView.GetProduct(products);
 
             shopping.AddArticle(products);
@@ -27,7 +27,10 @@ do
             break;
 
         case (int)Option.ViewCar:
+            WriteLine("\nLista del carrito.\n");
+
             shopping.ViewCar(products);
+
             op = Repeat.Repeating();
             break;
 

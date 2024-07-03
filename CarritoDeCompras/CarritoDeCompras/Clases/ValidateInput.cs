@@ -20,5 +20,13 @@ namespace ListaEstudiantes.Class
                 Console.Write("Entrada inválida. Por favor ingresa una opción válida: ");
             return op;
         }
+
+        public static int GetValidateIntInput()
+        {
+            int op;
+            while (!int.TryParse(Console.ReadLine(), out op))
+                Console.Write("Entrada inválida. Por favor ingresa una opción válida: ");
+            return op;
+        }
     }
 }

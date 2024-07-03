@@ -1,4 +1,6 @@
 ﻿using CarritoDeCompras.Entidades;
+using CarritoDeCompras.Enum;
+using ListaEstudiantes.Class;
 
 namespace CarritoDeCompras.Clases
 {
